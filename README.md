@@ -1,5 +1,5 @@
 # Tropopause
-get the tropopause pressure
+Get the tropopause pressure
 from Reichler et al., (2003)
 
 tropo.f90: The original fortrain script
